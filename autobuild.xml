@@ -16,18 +16,6 @@
         <string>boost</string>
         <key>platforms</key>
         <map>
-          <key>darwin</key>
-          <map>
-            <key>archive</key>
-            <map>
-              <key>hash</key>
-              <string>cae490999f05151e3a048b00d64237bb</string>
-              <key>url</key>
-              <string>https://automated-builds-secondlife-com.s3.amazonaws.com/ct2/109513/952781/boost-1.72-darwin64-577704.tar.bz2</string>
-            </map>
-            <key>name</key>
-            <string>darwin</string>
-          </map>
           <key>darwin64</key>
           <map>
             <key>archive</key>
@@ -42,43 +30,19 @@
             <key>name</key>
             <string>darwin64</string>
           </map>
-          <key>linux</key>
-          <map>
-            <key>archive</key>
-            <map>
-              <key>hash</key>
-              <string>f1fdb548fd6c09a083c86f3a23d7f041</string>
-              <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/p64_3p-boost/rev/317807/arch/Linux/installer/boost-1.57-linux-317807.tar.bz2</string>
-            </map>
-            <key>name</key>
-            <string>linux</string>
-          </map>
           <key>linux64</key>
           <map>
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>8e7ee97c3083f44385b09420655ebd04</string>
-              <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/ct2/892/1989/boost-1.57-linux64-500883.tar.bz2</string>
-            </map>
-            <key>name</key>
-            <string>linux64</string>
-          </map>
-          <key>windows</key>
-          <map>
-            <key>archive</key>
-            <map>
-              <key>hash</key>
-              <string>ec285559c214456a9b52078dca63150e8be1fbc1</string>
+              <string>a3bfbdba7e1977e7e65266ec654990bb13994bd3</string>
               <key>hash_algorithm</key>
               <string>sha1</string>
               <key>url</key>
-              <string>https://github.com/secondlife/3p-boost/releases/download/v1.81-09d25a7/boost-1.81-windows-09d25a7.tar.zst</string>
+              <string>https://github.com/secondlife/3p-boost/releases/download/v1.81-3d0d7fc/boost-1.81-linux64-3d0d7fc.tar.zst</string>
             </map>
             <key>name</key>
-            <string>windows</string>
+            <string>linux64</string>
           </map>
           <key>windows64</key>
           <map>
